@@ -1,0 +1,20 @@
+SMAP
+index_jsp.java
+JSP
+*S JSP
+*F
++ 0 index.jsp
+WEB-INF/categorias/index.jsp
+*L
+1,7:44
+8:51,3
+9:54
+10:55,3
+11,10:58
+21:68,3
+22,4:71
+26:75,3
+27,47:78
+74:125,3
+75,3:128
+*E
